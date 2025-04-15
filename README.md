@@ -17,3 +17,10 @@ Setelah selesai, jalankan Laragon.
 Klik tombol Start All untuk menyalakan Apache & MySQL.
 Buka browser, ketik http://localhost → seharusnya muncul halaman Laragon default.
 
+4. Pastikan Composer sudah terpasang
+   
+Composer biasanya sudah otomatis ikut terinstal lewat Laragon.
+Buka Terminal Laragon (Menu → Terminal).
+Cek composer:
+![cek komposer](https://github.com/MuhamadNazrilFauzanIf23A/Tugas_Cara_Instalisi_Laravel/raw/main/img/composer.png)
+

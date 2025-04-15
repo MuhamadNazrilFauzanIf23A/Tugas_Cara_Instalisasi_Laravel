@@ -22,5 +22,5 @@ Buka browser, ketik http://localhost → seharusnya muncul halaman Laragon defau
 Composer biasanya sudah otomatis ikut terinstal lewat Laragon.
 Buka Terminal Laragon (Menu → Terminal).
 Cek composer:
-![cek komposer]([https://github.com/MuhamadNazrilFauzanIf23A/Tugas_Cara_Instalisi_Laravel/raw/main/img/composer.png](https://github.com/MuhamadNazrilFauzanIf23A/Tugas_Cara_Instalisasi_Laravel/blob/main/img/composer.png))
+<img src="img/composer.png" width="300">
 

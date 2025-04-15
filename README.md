@@ -22,5 +22,5 @@ Buka browser, ketik http://localhost → seharusnya muncul halaman Laragon defau
 Composer biasanya sudah otomatis ikut terinstal lewat Laragon.
 Buka Terminal Laragon (Menu → Terminal).
 Cek composer:
-<img src="img/composer.png" width="300">
+<img src="img/composer.png">
 
